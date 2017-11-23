@@ -6,6 +6,7 @@
 4. [Groovy String Operation Example][4]
 5. [Java Calendar Add Subtract Date Months][5]
 6. [Php Encryption Decryption Class][6]
+7. [Ubuntu Terminal How to Copy selection to clipboard automatically][9]
 
 
 
@@ -27,7 +28,7 @@
 [4]: https://gist.github.com/javagrails/1b7e6e41f893bfb34b68 "Groovy String Operation Example"
 [5]: https://gist.github.com/javagrails/7300405 "Java Calendar Add Subtract Date Months"
 [6]: https://gist.github.com/javagrails/5668805 "Php Encryption Decryption Class"
-
+[9]: https://gist.github.com/javagrails/b43b649a6319cddfaba15bac50a8a345 "Ubuntu Terminal How to Copy selection to clipboard automatically"
 
 
 
