@@ -15,7 +15,7 @@
 #### <i class="icon-file"></i> Info : All my colleted gist are listed here from others
 1. [Phalconphp with php7 and ubuntu.16.04][7]
 2. [Jhipster yarn spring environment setup][8]
-
+3. [Embedded File Viewer: Google Drive, OneDrive][10]
 
 
 
@@ -35,6 +35,6 @@
 <!-- Collected Gists Links --> 
 [7]: https://gist.github.com/Tosyn/fef6437dd3906ff200e471e478eaae95 "Phalconphp with php7 and ubuntu.16.04"
 [8]: https://gist.github.com/tojibon/6a67e8fce63e65971be2374fef2e8cfd "Jhipster yarn spring environment setup"
-
+[10]: https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be "Embedded File Viewer: Google Drive, OneDrive"
 
 
