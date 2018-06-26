@@ -1,6 +1,6 @@
-# Awesome Java [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Java to know
 
-A curated list of awesome Java frameworks, libraries and software.
+A list of awesome Java frameworks, libraries and software.
 
 ## Contents
 
@@ -1088,13 +1088,5 @@ A curated list of awesome Java frameworks, libraries and software.
 - [Vanilla Java](https://vanilla-java.github.io)
 - [Voxxed](https://www.voxxed.com)
 
-## Contributing
-
-Contributions are very welcome!
-
-Please have a look at the [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) guidelines.
-
-[c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
-
-
-ref => https://github.com/akullpp/awesome-java
+## Reference 
+https://github.com/akullpp/awesome-java
